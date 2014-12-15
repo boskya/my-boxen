@@ -59,3 +59,18 @@ github "xquartz",     "1.2.1"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+
+github "adobe_reader",      "1.2.0"
+github "atom",              "1.1.0"
+github "chrome",            "1.1.1"
+github "firefox",           "1.1.5"
+github "fish",              "1.0.0"
+github "fitbit",            "1.0.0"
+github "iterm2",            "1.2.0"
+github "java",              "1.1.0"
+github "osx",               "2.2.2"
+github "puppet-chromecast", "1.0.0", :repo => "nickpellant/puppet-chromecast"
+github "sonos",             "1.0.4"
+github "spectacle",	    "1.0.0"
+github "vim",               "1.0.5"
+github "virtualbox",        "1.0.6"
